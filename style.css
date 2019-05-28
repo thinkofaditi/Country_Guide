@@ -1,0 +1,27 @@
+{
+  box-sizing: border-box;
+}
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 15px;
+  color: #333;
+  background-color: #eee;
+}
+form{
+  width:1000px;
+  margin: auto;
+  margin-top: 250px;
+}
+.search{
+  width: 80%;
+  padding:10px;
+  font-size: 20px;
+}
+.submit{
+  width: 15%;
+  padding: 10px;
+  font-size: 20px;
+  color:black;
+}
+
+/* Add some padding inside the card container */
